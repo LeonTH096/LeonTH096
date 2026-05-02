@@ -34,7 +34,7 @@ I'm not a developer who learned DevOps. I'm infrastructure-first — I think in 
 
 ---
 
-## 🚧 Current Build — Platform Engineering 2026
+## 🚧 Current Build — [Platform Engineering Portfolio](https://github.com/LeonTH096/platform-engineering-portfolio)
 
 A production-grade monorepo demonstrating the full Platform Engineering loop.
 
@@ -44,8 +44,8 @@ A production-grade monorepo demonstrating the full Platform Engineering loop.
 - kube-prometheus-stack: Prometheus + Grafana with custom dashboards and alerting rules
 - HPA, PodDisruptionBudgets, Network Policies, resource requests/limits
 
-**`cloud-infrastructure`** — Cloud Landing Zone built in two explicit iterations:
-- Iteration 1: Plain Terraform + Babenko (`terraform-aws-modules`) — the readable foundation
+**`cloud-infrastructure`** — Azure Landing Zone built in two explicit iterations:
+- Iteration 1: Plain Terraform + Azure Verified Modules (AVM) — the readable foundation
 - Iteration 2: Terragrunt refactor — DRY, environment-composable, production pattern
 
 The Terraform → Terragrunt refactor is an intentional portfolio artifact. It shows the *why*, not just the *how*.
