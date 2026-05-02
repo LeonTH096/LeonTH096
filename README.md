@@ -34,7 +34,7 @@ I'm not a developer who learned DevOps. I'm infrastructure-first — I think in 
 
 ---
 
-## 🚧 Current Build — [Platform Engineering Portfolio](https://github.com/LeonTH096/platform-engineering-portfolio)
+## 🚧 Current Build — [Platform Engineering Project 2026](https://github.com/LeonTH096/platform-engineering-portfolio)
 
 A production-grade monorepo demonstrating the full Platform Engineering loop.
 
