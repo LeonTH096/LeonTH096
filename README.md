@@ -34,7 +34,7 @@ I'm not a developer who learned DevOps. I'm infrastructure-first — I think in 
 
 ---
 
-## 🚧 Current Build — DevOps Portfolio 2026
+## 🚧 Current Build — Platform Engineering 2026
 
 A production-grade monorepo demonstrating the full Platform Engineering loop.
 
@@ -83,8 +83,7 @@ The Terraform → Terragrunt refactor is an intentional portfolio artifact. It s
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonTH096&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonTH096&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonTH096&theme=github_dark" />
 </p>
 
 <p align="center">
